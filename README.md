@@ -18,6 +18,7 @@ Comecei minha jornada com a Missão Programação Zero da DevClub onde me apaixo
  <a href="https://www.instagram.com/invites/contact/?i=16wyhu59eraek&utm_content=3dwyo4a/)">
     <img width="89px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white/)">
     </a>
+   
 
 [![Patricia Stats](https://github-readme-stats.vercel.app/api?username=pattyuryah)](https://github.com/anuraghazra/github-readme-stats)
 
